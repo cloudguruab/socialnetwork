@@ -1,0 +1,2 @@
+# Objective
+A small social application using flask, peewee, and python. It lets users register, user authentication, hashed passwords, form validation, and more. I had some issues while writing code with flask api's so I made some minor adjustments that effects the ability to see the exact content that other users post. 
